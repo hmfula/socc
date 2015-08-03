@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4940cc87-063a-4757-8c5d-f713689be92c" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/socc.war" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/socc/WEB-INF/lib/activation-1.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/socc/WEB-INF/lib/asm-3.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/socc/WEB-INF/lib/google-collections-1.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/socc/WEB-INF/lib/jackson-core-asl-1.7.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/socc/WEB-INF/lib/jackson-jaxrs-1.7.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/socc/WEB-INF/lib/jackson-mapper-asl-1.7.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/socc/WEB-INF/lib/jackson-xc-1.7.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/socc/WEB-INF/lib/jaxb-api-2.2.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/socc/WEB-INF/lib/jaxb-impl-2.2.3-1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/socc/WEB-INF/lib/jersey-client-1.8.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/socc/WEB-INF/lib/jersey-core-1.8.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/socc/WEB-INF/lib/jersey-json-1.8.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/socc/WEB-INF/lib/jersey-server-1.8.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/socc/WEB-INF/lib/jettison-1.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/socc/WEB-INF/lib/stax-api-1.0-2.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/socc/WEB-INF/lib/stax-api-1.0.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/socc/WEB-INF/web.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/socc/index.jsp" afterPath="" />
-    </list>
+    <list default="true" id="4940cc87-063a-4757-8c5d-f713689be92c" name="Default" comment="" />
     <ignored path="socc.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -51,10 +30,10 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="32" />
-    <option name="y" value="18" />
-    <option name="width" value="1657" />
-    <option name="height" value="1034" />
+    <option name="x" value="24" />
+    <option name="y" value="-11" />
+    <option name="width" value="1904" />
+    <option name="height" value="1099" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -404,15 +383,15 @@
       <created>1438630098759</created>
       <option name="number" value="Default" />
       <updated>1438630098759</updated>
-      <workItem from="1438630100623" duration="614000" />
+      <workItem from="1438630100623" duration="1213000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="614000" />
+    <option name="totallyTimeSpent" value="1213000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="32" y="18" width="1657" height="1034" extended-state="0" />
+    <frame x="24" y="-11" width="1904" height="1099" extended-state="7" />
     <editor active="false" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -437,7 +416,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24952978" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21606949" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />

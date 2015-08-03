@@ -12,7 +12,7 @@
 
 *.iml
 *.idea
-
+.idea/
 
 **/.idea/
 /.idea/
