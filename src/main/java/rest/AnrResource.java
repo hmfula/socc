@@ -9,13 +9,13 @@ import javax.ws.rs.Path;
 import javax.ws.rs.core.Response;
 
 /**
- * This class realizes SON Coordinator REST application programming interface
+ * This class realizes LTE CCO REST application programming interface
  *
  * @author Harrison Mfula
  * @since 26.7.2015.
  */
 @Path("/service")
-public class AnrResource {
+public class CcoResource {
 
 
 
@@ -34,7 +34,7 @@ public class AnrResource {
 //        SparkClusterAccess dataAccess = new SparkClusterAccess();
 //        dataAccess.createSonJobContextIfNeeded();
 //        dataAccess.runSonJob();
-//        Thread.sleep(2000l);
+//        Thread.sleep(2000);
 //        jsonArray = dataAccess.processResult();
 //        System.out.println("I did it, heyyyy!");
 //        return Response.status(200)
