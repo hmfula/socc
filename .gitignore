@@ -10,8 +10,8 @@
 *.war
 *.ear
 
-*.iml
-*.idea
+.iml
+.idea
 .idea/
 
 **/.idea/
