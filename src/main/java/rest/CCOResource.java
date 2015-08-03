@@ -15,7 +15,7 @@ import javax.ws.rs.core.Response;
  * @since 26.7.2015.
  */
 @Path("/service")
-public class CcoResource {
+public class CCOResource {
 
 
 
